@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Material News</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="api_key">d3ac476a356c4581ad5523e47bbfadd3</string>
+    <string name="search_field">Search for news</string>
+    <string name="search_hint">Search articles...</string>
+    <string name="welcome_message">Welcome to Material News!\nhttps://newsapi.org/</string>
+</resources>
